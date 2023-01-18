@@ -14,12 +14,12 @@ body::-webkit-scrollbar{
 }
 
 body::-webkit-scrollbar-thumb{
-  background-color: $azul-claro;
+  background-color: #154580;
   border-radius: 20px;
 }
 
 body::-webkit-scrollbar-track{
-  background: linear-gradient($azul-escuro, $azul-claro);
+  background: linear-gradient(#041833, #154580);
 }
 
 @font-face {
@@ -27,7 +27,7 @@ body::-webkit-scrollbar-track{
   src: local("GandhiSansRegular"),
     url("../assets/fontes/GandhiSans-Regular.otf") format("truetype");
   font-weight: 500;
-  font-display: swap;
+  display: swap;
 }
 
 @font-face {
@@ -35,5 +35,5 @@ body::-webkit-scrollbar-track{
   src: local("GandhiSansBold"),
     url("../assets/fontes/GandhiSans-Bold.otf") format("truetype");
   font-weight: 700;
-  font-display: swap;
+  display: swap;
 }
