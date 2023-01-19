@@ -15,7 +15,7 @@ export default function PaginaInicial() {
         <section className={styles.principal}>
           <Menu />
           <div className={styles.principal__imagem}>
-            <h1>A galeria mais completa do espaço</h1>
+            <h1>A coleção mais bela de hotwheels do mundo!</h1>
             <img src={banner} alt="A imagem da terra vista do espaço" />
           </div>
         </section>

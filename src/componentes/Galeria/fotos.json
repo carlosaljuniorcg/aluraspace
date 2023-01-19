@@ -1,72 +1,72 @@
 [
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "BatMobile",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-1.png",
     "id": "1",
-    "tag": "Galáxias"
+    "tag": "Temático"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "Lamborguini Gallardo",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-2.png",
     "id": "2",
-    "tag": "Estrelas"
+    "tag": "Esportivo"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "Lamborguini Countach",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-3.png",
     "id": "3",
-    "tag": "Lua"
+    "tag": "Esportivo"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "Porsche 911 GT3",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-4.png",
     "id": "4",
-    "tag": "Galáxias"
+    "tag": "Esportivo"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "Ford '40 Truck",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-5.png",
     "id": "5",
-    "tag": "Estrelas"
+    "tag": "Picape"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "Chevy Fleetline '47",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-6.png",
     "id": "6",
-    "tag": "Nebulosas"
+    "tag": "Clássico"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "Honda Super Cub",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-7.png",
     "id": "7",
-    "tag": "Galáxias"
+    "tag": "Moto"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "BatMobile",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-8.png",
     "id": "8",
-    "tag": "Nebulosas"
+    "tag": "Temático"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "La Troca",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-9.png",
     "id": "9",
-    "tag": "Estrelas"
+    "tag": "Picape"
   },
   {
-    "titulo": "Nome da Foto",
-    "creditos": "Alura Space",
+    "titulo": "Ford '40 Truck",
+    "creditos": "Meu Mundo Hotwheels",
     "imagem": "/assets/imagens/galeria/foto-10.png",
     "id": "10",
-    "tag": "Estrelas"
+    "tag": "Picape"
   }
 ]

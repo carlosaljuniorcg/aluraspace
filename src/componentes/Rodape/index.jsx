@@ -23,14 +23,14 @@ export default function Rodape() {
           <img src={twitter} alt="ícone do twitter" />
         </a>
         <a
-          href="https://www.instagram.com/aluraonline/?hl=en"
+          href="https://www.instagram.com/carlosjuniorcghw/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={instagram} alt="ícone do instagram" />
         </a>
       </div>
-      <p>Desenvolvido por Alura</p>
+      <p>Desenvolvido por Carlos Antônio</p>
     </footer>
   );
 }
