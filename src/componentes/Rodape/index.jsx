@@ -9,14 +9,14 @@ export default function Rodape() {
     <footer className={styles.rodape}>
       <div className={styles.rodape__icones}>
         <a
-          href="https://www.facebook.com/AluraCursosOnline/"
+          href="https://www.instagram.com/carlosjuniorcghw/"
           target="_blank"
           rel="noreferrer"
         >
           <img src={facebook} alt="ícone do facebook" />
         </a>
         <a
-          href="https://twitter.com/aluraonline?lang=en"
+          href="https://www.instagram.com/carlosjuniorcghw/"
           target="_blank"
           rel="noreferrer"
         >
